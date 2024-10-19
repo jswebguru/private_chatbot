@@ -1,6 +1,6 @@
-# LangGraphRAG
+# Private Chatbot
 
-LangGraphRAG is a terminal-based Retrieval-Augmented Generation (RAG) system implemented using LangGraph. The architecture is designed to handle queries by routing them through a series of processes involving message history caching, query transformation, and document retrieval from a vector database.
+Private Chatbot is a terminal-based Retrieval-Augmented Generation (RAG) system implemented using LangGraph. The architecture is designed to handle queries by routing them through a series of processes involving message history caching, query transformation, and document retrieval from a vector database.
 
 ## Project Structure
 
@@ -15,8 +15,8 @@ Follow these steps to set up and run the project:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/ranguy9304/LangGraphRAG.git
-   cd LangGraphRAG
+   git clone https://github.com/jswebguru/private_chatbot.git
+   cd private_chatbot
    ```
 
 2. **Create a virtual environment**:
@@ -79,10 +79,10 @@ Follow these steps to set up and run the project:
 ## Diagrams
 
 ### Vector DB Creation
-![Vector DB Creation](https://github.com/ranguy9304/LangGraphRAG/raw/main/architecture/vectordb_creation.png)
+![Vector DB Creation](https://github.com/jswebguru/private_chatbot/raw/main/architecture/vectordb_creation.png)
 
 ### RAG Architecture
-![RAG Architecture](https://github.com/ranguy9304/LangGraphRAG/raw/main/architecture/RAG.png)
+![RAG Architecture](https://github.com/jswebguru/private_chatbot/raw/main/architecture/RAG.png)
 
 
 ## Contribution
